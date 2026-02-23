@@ -1,3 +1,3 @@
-welcome!
+hello!
 
-i research machine learning for natural language processing and i like full-stack development
+chief architect @ kraken (onchain). also the co-founder/CTO of Magna (acquired) and former LLM evals researcher at Penn. i enjoy biking, camping, photography, and coffee.
